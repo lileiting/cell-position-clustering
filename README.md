@@ -2,10 +2,10 @@
 
 ## Requirements
 
-- (perl)[https://www.perl.org/]
-- (R)[https://www.r-project.org/]
-- (MCL)[https://micans.org/mcl/]
-- (argparser)[https://mirrors.ustc.edu.cn/CRAN/]
+- [perl](https://www.perl.org/)
+- [R](https://www.r-project.org/)
+- [MCL](https://micans.org/mcl/)
+- [argparser](https://mirrors.ustc.edu.cn/CRAN/)
 
 ## Steps required for clustering cell positions
 
