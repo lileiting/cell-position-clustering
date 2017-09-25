@@ -25,7 +25,7 @@ sub main {
         my @F = split /\t/;
         next if @F < 25;
         $cls_idx++;
-        map{$cluster{$_}} @F;
+        map{$cluster{$_} = $cls_idx} @F;
     }
     close $fh1;
 
